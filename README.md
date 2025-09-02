@@ -1,6 +1,7 @@
 # gtc-ml-project1-hotel-bookings
 This project provides a step-by-step Jupyter Notebook pipeline for cleaning and preprocessing the hotel_bookings.csv dataset, preparing it for machine learning tasks such as predicting booking cancellations.
 The notebook is structured into three phases:
+
 Phase 1: Exploratory Data Analysis (EDA) & Data Quality Report
 This phase focuses on understanding the raw dataset and identifying potential data quality issues.
 Data Overview: Load the dataset and examine its structure using .info() and .describe().
